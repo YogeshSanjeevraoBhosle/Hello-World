@@ -3,4 +3,4 @@
 Hi everyone 
 My name is yogesh
 I like to code in java
-I sm s biggner
+I am a biggner
